@@ -1,6 +1,13 @@
 # DevOps-Pipeline
 A project with a complete DevOps pipeline hosting a Java Spring Boot microservice.
 
+This project consists of 5 repositories (including this one), this being the central repository for the project. 
+Please view the other repositiories at the following links:
+- https://github.com/DillonWall/DevOps-Pipeline-Frontend
+- https://github.com/DillonWall/DevOps-Pipeline-Backend
+- https://github.com/DillonWall/DevOps-Pipeline-IaC
+- https://github.com/DillonWall/DevOps-Pipeline-Deployment
+
 Technologies used in this project includes:
 - React
 - Java Spring Boot (microservice & REST API)
