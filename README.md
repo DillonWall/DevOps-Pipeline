@@ -10,6 +10,7 @@ Technologies used in this project includes:
 - Terraform
 - Jenkins
 - Ansible
+- Cloud Service (Virtual Private Servers)
 
 ## Status
 - [ ] Initial project setup
@@ -69,7 +70,9 @@ This project is still in development and has no usage guide yet. Please check ba
 ---
 
 ## Screenshots
-This project is still in development and has no screenshots yet. Please check back later!
+#### Project Structure Diagram
+![ProjectStructureDiagram](https://github.com/DillonWall/DevOps-Pipeline/assets/49173127/19f3daf4-c29e-4c4d-af34-238bdd707a10)
+
 
 <div align="right">[ <a href="#contents">↑ Back to top ↑</a> ]</div>
 
