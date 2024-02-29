@@ -17,7 +17,7 @@ Technologies used in this project includes:
 - Terraform
 - Jenkins
 - Ansible
-- Cloud Service (Virtual Private Servers)
+- AWS (EC2 instances)
 
 ## Status
 - [x] <strike> Initial project setup </strike>
