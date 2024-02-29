@@ -20,7 +20,7 @@ Technologies used in this project includes:
 - Cloud Service (Virtual Private Servers)
 
 ## Status
-- [ ] Initial project setup
+- [x] Initial project setup
 - [ ] Setup cloud infrastructure using Terraform
   - [ ] Provision Jenkins CI server
 - [ ] Configure servers using Ansible
